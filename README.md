@@ -1,5 +1,5 @@
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://thumbs.dreamstime.com/b/quality-assurance-service-guarantee-standard-internet-business-technology-concept-120796090.jpg" width="641" height="297">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://thumbs.dreamstime.com/b/quality-assurance-service-guarantee-standard-internet-business-technology-concept-120796090.jpg" width="1000" height="400">
 
 ## About me
  <a href="https://www.markdownguide.org" target="_blank"> Hello my name is Juli Diva. I'm QA Automation and Manual Engineer!</a>
