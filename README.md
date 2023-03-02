@@ -8,7 +8,7 @@
 
 🌱 I’m engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing.
 - :mailbox:How to find me:<div id="badges"> 
-  <a href="[https://www.linkedin.com/in/dameli-mussylmankul/](https://www.linkedin.com/in/julidiva/)">
+  <a href= "https://www.linkedin.com/in/julidiva/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
